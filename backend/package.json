@@ -1,0 +1,1 @@
+{"scripts":{"start":"node src/index.js","dev":"node src/index.js"},"dependencies":{"cors":"latest","express":"latest","mysql2":"latest"}}
